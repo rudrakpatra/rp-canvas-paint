@@ -1,0 +1,23 @@
+{
+  "name": "rp-canvas-paint",
+  "version": "1.0.6",
+  "description": "add drawing interactivity to a canvas",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "canvas",
+    "paint",
+    "draw"
+  ],
+  "author": "rudrak patra",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  },
+  "dependencies": {
+    "user": "^0.0.0"
+  }
+}
